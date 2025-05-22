@@ -2,6 +2,11 @@
 
 IPL Live Score Dashboard
 
+# Tools Used
+- Next.js
+- MongoDB
+- Tailwind CSS
+
 ## Installation
 
 1. Clone the repository:
